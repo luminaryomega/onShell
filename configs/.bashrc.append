@@ -1,0 +1,13 @@
+# >>> ONSHELL BEGIN >>>
+if [ ! -f "$HOME/.onshell_first_run_complete" ]; then
+  echo ""
+  echo -e "\e[38;2;255;20;147m ⊙Ω   Luminary Omega — onShell v1.1 — Quantum Dawn\e[0m"
+  echo "      Lighting a path to the beginning"
+  echo ""
+  echo -e "\e[38;2;255;20;147m ⊙ The Light is Online\e[0m"
+  echo -e "\e[38;2;255;20;147mΩ Navigation Restored\e[0m"
+  echo ""
+  touch "$HOME/.onshell_first_run_complete"
+fi
+export PS1="\[\e[38;2;255;20;147m\]⊙Ω\[\e[0m\] > "
+# >>> ONSHELL END >>>
