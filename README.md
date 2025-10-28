@@ -6,8 +6,8 @@ onShell — **Quantum Dawn (v1.1)**
 
 ---
 
-## Quick Install (Android / Termux first)
+## Quick Install (Android / Termux)
 ```bash
 bash <(curl -fsSL https://raw.githubusercontent.com/LuminaryOmega/onShell/main/install.sh)
 
-eof
+
