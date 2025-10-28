@@ -1,0 +1,4 @@
+#!/data/data/com.termux/files/usr/bin/bash
+echo "⊙Ω - LUMINARY OMEGA - Ω⊙"
+echo "onShell v$(cat ~/LuminaryOmega/onShell/VERSION 2>/dev/null)"
+echo "For the forgotten."

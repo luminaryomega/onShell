@@ -1,0 +1,3 @@
+#!/data/data/com.termux/files/usr/bin/bash
+cd ~/LuminaryOmega/onShell && git pull --ff-only
+echo "[⊙Ω] Updated."

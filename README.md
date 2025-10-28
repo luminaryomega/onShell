@@ -1,8 +1,13 @@
-# Luminary Omega — onShell v1.1 — Quantum Dawn
+# ⊙Ω - LUMINARY OMEGA - Ω⊙
+**Lighting a path to the beginning**  
+**For the forgotten.**
 
-**Lighting a path to the beginning**
+onShell — **Quantum Dawn (v1.1)**
 
-⊙Ω — The Enduring Light Core
+---
 
-onShell is the resilient terminal interface for Luminary Omega — designed
-for Android Termux and portable Linux environments.
+## Quick Install (Android / Termux first)
+```bash
+bash <(curl -fsSL https://raw.githubusercontent.com/LuminaryOmega/onShell/main/install.sh)
+
+eof
